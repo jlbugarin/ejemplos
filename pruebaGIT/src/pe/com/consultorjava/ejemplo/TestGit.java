@@ -6,6 +6,7 @@ public class TestGit {
 		// TODO Auto-generated method stub
 
 		System.out.println("primer programa usando git...");
+		System.out.println("primer programa usando git..llll.");
 		
 	}
 
